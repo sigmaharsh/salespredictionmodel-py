@@ -33,6 +33,9 @@ Since i am using python i have used several libraries here:
   <h3>1. Create a Virtual Environment</h3>
   <p>Open a terminal in your project directory and run:</p>
   <pre><code>python3 -m venv prediction</code></pre>
+  <p>move the svm.py and the .csv file into virtual enviornment folder names "prediction"</p>
+    <pre><code>cp svm.py ~/path/to/the/predictionfolder</code></pre>
+    <pre><code>cp sales_data_past_2_years.csv  ~/path/to/the/predictionfolder</code></pre>
 
   <h3>2. Activate the Virtual Environment</h3>
   <pre><code>source prediction/bin/activate</code></pre>
