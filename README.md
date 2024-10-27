@@ -62,6 +62,6 @@ Since i am using python i have used several libraries here:
     <li>Verify Streamlit installation with <code>pip list</code> inside the virtual environment.</li>
   </ul>
 
-  <p> the app now should run on your localhost</p>
+  <p> the streamlit app now should run on your localhost port 8501</p>
 
 
