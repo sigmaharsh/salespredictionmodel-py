@@ -1,6 +1,7 @@
-# Ignore everything inside the venv/ folder
+# Ignore everything inside the prediction folder
 prediction/
-
-# But allow tracking of specific files, like svm.py
+prediction/lib/
+prediction/lib/python3.12/
+# allow of svm.py
 !prediction/svm.py
 
