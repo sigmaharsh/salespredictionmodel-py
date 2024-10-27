@@ -16,16 +16,9 @@ Since i am using python i have used several libraries here:
 
 </p>
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Streamlit App Setup Guide</title>
-</head>
-<body>
-  <h1>Streamlit App Setup Guide</h1>
-  <p>This guide explains how to activate a Python virtual environment and run a Streamlit application.</p>
 
+  <h1>Streamlit App Setup Guide</h1>
+  
   <h2>Prerequisites</h2>
   <ul>
     <li>Python 3.6 or higher installed</li>
@@ -39,6 +32,7 @@ Since i am using python i have used several libraries here:
   <pre>
 <code># On Windows
 python -m venv venv
+</code>
 
 # On Linux / macOS
 python3 -m venv venv</code>
@@ -48,8 +42,10 @@ python3 -m venv venv</code>
   <pre>
 <code># On Windows
 .\venv\Scripts\activate
+</code>
 
 # On Linux / macOS
+<code>
 source venv/bin/activate</code>
   </pre>
   <p>You should see <code>(venv)</code> in your terminal prompt, indicating the virtual environment is active.</p>
@@ -75,6 +71,5 @@ source venv/bin/activate</code>
     <li>Run <code>pip list</code> inside the virtual environment to confirm that Streamlit is installed.</li>
   </ul>
 
-  <p>This README provides basic instructions to help you quickly set up and run your Streamlit app. Happy coding! 🎉</p>
-</body>
-</html>
+  
+
