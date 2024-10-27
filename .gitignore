@@ -1,0 +1,4 @@
+prediction/
+
+!prediction/svm.py
+!prediction/sales_data_past_2_years.csv
