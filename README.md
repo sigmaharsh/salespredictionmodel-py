@@ -62,6 +62,6 @@ Since i am using python i have used several libraries here:
     <li>Verify Streamlit installation with <code>pip list</code> inside the virtual environment.</li>
   </ul>
 
-  <p>This guide ensures you have an isolated environment to run your Streamlit app smoothly. Happy coding! 🎉</p>
+  <p> the app now should run on your localhost</p>
 
 
