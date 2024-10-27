@@ -1,7 +1,0 @@
-# Ignore everything inside the prediction folder
-prediction/
-prediction/lib/
-prediction/lib/python3.12/
-# allow of svm.py
-!prediction/svm.py
-!prediction/sales_data_past_2_years.csv

@@ -1,4 +1,4 @@
-#!/home/harsh/Desktop/salespredictionmodel-py/prediction/bin/python3
+#!/home/harsh/Desktop/salespredictionmodel-py/prediction/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
