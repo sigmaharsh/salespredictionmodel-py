@@ -9,7 +9,7 @@ Since i am using python i have used several libraries here:
  <ul>
             <li>pandas</li>
             <li>sklearn</li>
-            <li>matplotlib</li>
+            <li>matplotlib.pyplot</li>
             <li>streamlit</li>
  
  </ul>
